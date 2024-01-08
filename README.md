@@ -75,10 +75,9 @@ Feel free to take a look, clone repositories, leave comments, etc. As I'm studyi
 
 <div align='center'>
 
-## <b>I hope you like my projects, again, I insist that you feel free to visit my profile</b>
+## <b>Hope you like my projects, again, I insist that you feel free to visit my profile</b>
 
 </div>
 <br>
----
 
 <br>
